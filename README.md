@@ -1,2 +1,2 @@
 # my-project
-这是我测试使用GIt的
+这是我测试使用Git的
